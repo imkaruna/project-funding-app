@@ -1,7 +1,23 @@
 body {
   padding-top: 50px;
+  letter-spacing: 0.1em;
+}
+p {
+  line-height: 2em;
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+.well {
+    background: #fafafa;
+}
+
+.navbar-inverse{
+  background-color: #ff4f00;
+  border-color: #ff0f00;
+}
+
+.navbar-text {
+  color: #000;
 }
